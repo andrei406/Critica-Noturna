@@ -8,6 +8,16 @@ section {
     text-align: center;
     font-style: italic
 }
+div {
+    color: black;
+    background-color: white;
+    margin: auto;
+    width: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px rosybrown;
+    
+}
 footer {
     color: white;
     font-style: italic;
