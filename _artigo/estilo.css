@@ -5,18 +5,15 @@ body {
 }
 section {
     color: blanchedalmond;
-    text-align: center;
+    text-align: left;
     font-style: italic
+    color: white;
 }
-div {
-    color: black;
-    background-color: white;
-    margin: auto;
-    width: 200px;
-    border-radius: 20px;
-    padding: 20px;
-    box-shadow: 5px 5px rosybrown;
-    
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
 }
 footer {
     color: white;
