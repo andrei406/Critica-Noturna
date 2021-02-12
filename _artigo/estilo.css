@@ -5,8 +5,8 @@ body {
 }
 section {
     color: blanchedalmond;
-    text-align: left;
-    font-style: italic
+    text-align: center;
+    font-style: italic;
     color: white;
 }
 h1 {
@@ -19,4 +19,8 @@ footer {
     color: white;
     font-style: italic;
     text-align:center;
+    font-weight: 900;
+}
+p {
+    text-align: justify;
 }
