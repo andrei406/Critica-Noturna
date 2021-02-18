@@ -7,7 +7,14 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body> 
-    <input type="button" value="Artigos" style="background: black; color: white;" onmousemove="abaArtigos()">
+    <nav id='topo'>
+        <ul>
+            <li> <a href="artigos.html" >Artigos</a></li>
+            <li style="display: none;"> <a href="index.html">Página Principal</a></li>
+            <li><a href="sobre.html">Sobre</a></li>
+        </ul>
+    </nav>
+    
     <section> <!-- Dedicada ao titulo-->
         <hgroup>
         <h1>Crítica Noturna</h1>
@@ -17,18 +24,22 @@
     </section>
 
     <section>
-        <div>
+        <div id='destaque'>
             <h3>Artigo em Destaque </h3>
             <img src="_imagens/iconfinder_document_text_edit_103514.png" alt="">
             <p>Nesta parte vai ficar a descrição do artigo em destaque</p>
         </div>
     </section>
+    <footer>
+        <p>
+            <span class='copyleft'>&copy;</span>
+            Crítica Noturna <br> <span style="font: italic;"> All right reversed</span>
+        </p>
+    </footer>
     
 
     <script src="script.js">
     </script>
-    <footer> 
-        <p>Contato | Privacidade | Políticas | Termos</p>
-    </footer>
+
 </body>
 </html>
