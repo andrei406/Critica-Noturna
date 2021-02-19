@@ -35,6 +35,9 @@ div#corpo {
     width: 450px;
     margin: 20px auto 0 auto;
 }
+div#corpo h1 {
+    text-align: center;
+}
 footer {
     color: white;
     font-style: italic;
