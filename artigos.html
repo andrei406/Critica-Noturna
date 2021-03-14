@@ -1,33 +1,70 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Artigos | Crítica Noturna</title>
     <link rel="stylesheet" href="estilo.css">
-    
 </head>
 <body>
-    <nav id='topo'>
-        <ul>
-            <li style="display: none;"><a href="artigos.html" >Artigos</a></li>
-            <li> <a href="index.html">Página Principal</a></li>
-            <li ><a href="sobre.html">Sobre</a></li>
-        </ul>
-    </nav>
-    <section>
-        <img src="_imagens/critica-noturna-slogam-pequeno.png" alt="">
-    </section>
-    <div id='corpo'>
-      <h1>Artigos</h1>  
-      <h2 style="text-align: center;">Em breve haverá artigos!</h2>
+    <div id=mobile>
+        <div id=desktop-hide>
+            <div id=texto-curto-mobile>
+                <nav>
+                    <ul>
+                        <li style="display: none;"><a href="artigos.html" >Artigos</a></li>
+                        <li> <a href="index.html">Página Principal</a></li>
+                        <li ><a href="sobre.html">Sobre</a></li>
+                    </ul>
+                </nav>
+                <section>
+                    <img src="imagens/critica-noturna-slogam-pequeno.png" alt="">
+                </section>
+                <div class='pc'>
+                <h1>Artigos</h1>  
+                <h2 style="text-align: center;">Nosso primeiro artigo!</h2>
+                <img class=center-img-pc src="artigos/subcultura_otaku/imagens/otaku-image.png" alt="">
+                <h2 style="text-align: center;"> <a href="artigos/subcultura_otaku/index.html">Subcultura otaku</a> </h2>
+                <p style="text-align: center;">Ainda a as comunidades que se dividem no que possível, tem de todo o tipo de gosto, seja para crianças, jovens e adultos e até arrisco dizer que idosos também fazem parte</p>
+                </div>
+                <footer>
+                    <p>
+                        <span class='copyleft'>&copy;</span>
+                        Crítica Noturna <br> <span style="font: italic;"> All right reversed</span>
+                    </p>
+                </footer>
+            </div>
+        </div>
     </div>
-    <footer>
-        <p>
-            <span class='copyleft'>&copy;</span>
-            Crítica Noturna <br> <span style="font: italic;"> All right reversed</span>
-        </p>
-    </footer>
+    <div id=mobile-hide>
+        <nav>
+            <ul>
+                <li style="display: none;"><a href="artigos.html" >Artigos</a></li>
+                <li> <a href="index.html">Página Principal</a></li>
+                <li ><a href="sobre.html">Sobre</a></li>
+            </ul>
+        </nav>
+    <div id=texto-curto-pc>
+        
+        <section>
+            <img id=logo-pequeno src="imagens/critica-noturna-slogam-pequeno.png" alt="">
+        
+        <div class='pc'>
+        <h1>Artigos</h1>  
+        <h2 style="text-align: center;">Nosso primeiro artigo!</h2>
+        <img class=center-img-pc src="artigos/subcultura_otaku/imagens/otaku-image.png" alt="">
+        <h2 style="text-align: center;"> <a href="artigos/subcultura_otaku/index.html">Subcultura otaku</a> </h2>
+        <p style="text-align: center;">Ainda a as comunidades que se dividem no que possível, tem de todo o tipo de gosto, seja para crianças, jovens e adultos e até arrisco dizer que idosos também fazem parte</p>
+        <footer>
+            <p>
+                <span class='copyleft'>&copy;</span>
+                Crítica Noturna <br> <span style="font: italic;"> All right reversed</span>
+            </p>
+        </footer>
+        </section>
+        </div>
+        
+    </div>
 </body>
 </html>
