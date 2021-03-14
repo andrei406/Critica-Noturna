@@ -65,12 +65,11 @@ foote{
     font-style: italic;
     text-align:center;
     position: absolute;
+}
 .footer-txt{
     text-align: center;
     font-style: italic;
     text-align:center;
-    position: absolute;
-    margin-left: 180px;
 }
 .footer-exec {
     text-align: center;
@@ -129,6 +128,7 @@ h1 {
 }
 .center-img-pc {
     margin-left: 20px;
+    height:250px
 }
 .center-img-pc-artigo {
     margin-left: 260px;
