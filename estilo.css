@@ -60,7 +60,7 @@ div#mobile-hide li {
     width: 500px;
     margin: 30px auto 0 auto;
 }
-foote{
+footer{
     text-align: center;
     font-style: italic;
     text-align:center;
@@ -75,7 +75,7 @@ foote{
     text-align: center;
     font-style: italic;
     text-align:center;
-    margin-left: 400px;
+    margin-left: 600px;
 }
 #texto-curto-pc footer p {
     text-align: center;
@@ -131,7 +131,7 @@ h1 {
     height:250px
 }
 .center-img-pc-artigo {
-    margin-left: 260px;
+    margin-left: 480px;
     height: 250px;
     width: 400px;
 }
