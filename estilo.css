@@ -4,13 +4,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 800px) {
     #mobile-hide{ display: none !important;  }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 800px) {
     #mobile{ display: inline none !important;}
 }
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 801px) {
     #desktop-hide { display: none !important;}
 }
 body {
@@ -128,11 +128,13 @@ h1 {
 }
 .center-img-pc {
     margin-left: 20px;
-    height:250px
+    height:250px;
+    margin-right: 700px;
 }
 .center-img-pc-artigo {
     height: 250px;
     width: 400px;
+    margin-right: 700px;
 }
 #texto-curto-pc {
     width: 500px;
