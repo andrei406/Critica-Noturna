@@ -128,13 +128,13 @@ h1 {
 }
 .center-img-pc {
     margin-left: 20px;
-    height:250px;
+    height:350px;
     margin-right: 700px;
 }
 .center-img-pc-artigo {
-    height: 250px;
-    width: 400px;
-    margin-right: 700px;
+    height: 350px;
+    width: 500px;
+    margin-left: 500px;
 }
 #texto-curto-pc {
     width: 500px;
