@@ -15,7 +15,7 @@
 }
 body {
     background-color: black;
-    color: white; 
+    color: blanchedalmond; 
     font-family: 'Open Sans Condensed', sans-serif;  
 }
 section {
@@ -35,12 +35,12 @@ div#destaque {
 /* Formatação do menu superior*/
 div#mobile ul {
     top: 10px;
-    left: 100px;
+    left: 50px;
 }
 div#mobile li {
     display: inline-block;
     padding: 10px;
-    margin: 2px;
+    margin-right: 5px;
     background-color: rgb(3, 7, 29);
 }
 div#corpo-mobile {
@@ -80,6 +80,7 @@ div#mobile-hide li {
     text-align: center;
     font-style: italic;
     text-align:center;
+    color:blanchedalmond
 }
 #desktop-hide {
     font-size: 16t;
@@ -115,9 +116,13 @@ a {
 }
 h2 {
     text-align: center;
+    color:blanchedalmond
+
 }
 h1 {
     text-align: center;
+    color:blanchedalmond
+
 }
 .copyleft {
     display: inline-block;
@@ -128,13 +133,13 @@ h1 {
 }
 .center-img-pc {
     margin-left: 20px;
-    height:350px;
+    height:250px;
     margin-right: 700px;
 }
 .center-img-pc-artigo {
-    height: 350px;
-    width: 500px;
-    margin-left: 500px;
+    height: 250px;
+    width: 400px;
+    margin-right: 700px;
 }
 #texto-curto-pc {
     width: 500px;
