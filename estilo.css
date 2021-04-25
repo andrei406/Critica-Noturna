@@ -74,7 +74,7 @@ div#mobile-hide li {
     text-align: center;
     font-style: italic;
     text-align:center;
-    margin-left: 600px;
+    margin-left: 400px;
 }
 #texto-curto-pc footer p {
     text-align: center;
@@ -105,8 +105,8 @@ a {
 }
 #pc {
     margin-bottom: 100px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 550px;
+    margin-right: 550px;
     height: 300px;
 }
 #pc p {
@@ -134,12 +134,12 @@ h1 {
 .center-img-pc {
     margin-left: 20px;
     height:250px;
-    margin-right: 700px;
+    margin-left: 200px;
 }
 .center-img-pc-artigo {
-    height: 250px;
-    width: 400px;
-    margin-right: 700px;
+    height: 350px;
+    width: 500px;
+    margin-left: 200px;
 }
 #texto-curto-pc {
     width: 500px;
