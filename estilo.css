@@ -104,12 +104,12 @@ a {
 }
 #pc {
     margin-bottom: 100px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 450px;
+    margin-right: 430px;
     height: 300px;
 }
 #pc p {
-    font-size: 16pt;
+    font-size: 20pt;
     text-align: left;
     
 }
