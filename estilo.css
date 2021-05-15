@@ -20,8 +20,16 @@ body {
 }
 section {
     color: blanchedalmond;
-    text-align: center;
     font-style: italic
+
+}
+section h3{
+    text-align: center;
+}
+section p {
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 div#destaque {
     color: black;
@@ -110,7 +118,7 @@ a {
     height: 300px;
 }
 #pc p {
-    font-size: 16pt;
+    font-size: 20pt;
     text-align: left;
     
 }
