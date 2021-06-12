@@ -40,6 +40,9 @@ div#destaque {
     padding: 20px;
     box-shadow: 5px 5px rosybrown;  
 }
+div#pc h1{
+    font-size: 24pt;
+}
 /* Formatação do menu superior*/
 div#mobile ul {
     top: 10px;
