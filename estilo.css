@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Open+Sans+Condensed:wght@300;700&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
-yy
+
 @media only screen and (max-width: 1000px) {
     #mobile-hide{ display: none !important;  }
 }
@@ -165,7 +165,7 @@ h1 {
 /*Formatação de artigos*/
 
 .center-img-mobile {
-    margin-left: 30px;
+    margin-left: 120px;
 }
 .center-img-pc {
     margin-left: 20px;
@@ -181,4 +181,8 @@ h1 {
 }
 .center-img-pc-artigo-grande{
     margin-left: 25px;
+}
+.center-img-mobile2{
+    height: 250px;
+    margin-left: 50px;
 }
