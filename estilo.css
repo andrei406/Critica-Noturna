@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Open+Sans+Condensed:wght@300;700&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
-
+yy
 @media only screen and (max-width: 1000px) {
     #mobile-hide{ display: none !important;  }
 }
@@ -116,8 +116,8 @@ a {
 }
 #pc {
     margin-bottom: 100px;
-    margin-left: 230px;
-    margin-right: 230px;
+    margin-left: 170px;
+    margin-right: 130px;
     height: 300px;
 }
 #pc p {
